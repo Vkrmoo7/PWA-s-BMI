@@ -5,5 +5,5 @@
   "start_url": "/pwa-bmi-calculator.html",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#ff6f61",
+  "theme_color": "#ff6f61"
 }
